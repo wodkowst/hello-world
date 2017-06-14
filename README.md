@@ -2,4 +2,4 @@
 Teresa's first repository.
 
 
-This is fun way to learn about GitHub.
+This is a fun way to learn GitHub.
